@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<config>
+  <key_value name="PI">3.14</key_value>
+  <key_value name="radius">10.0</key_value>
+  <key_value name="diameter">20.0</key_value>
+  <key_value name="area">314.0</key_value>
+</config>

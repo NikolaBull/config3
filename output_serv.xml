@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<config>
+  <key_value name="server_name">localhost;</key_value>
+  <key_value name="server_port">8080;</key_value>
+  <key_value name="log_dir">/var/logs/;</key_value>
+  <key_value name="log_file">/var/logs/server.log;</key_value>
+</config>

@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<config>
+  <key_value name="db_host">localhost;</key_value>
+  <key_value name="db_port">5432;</key_value>
+  <key_value name="db_user">admin;</key_value>
+  <key_value name="db_password">password;</key_value>
+  <key_value name="db_connection_string">Host=localhost Port=5432 User=admin Password=password;</key_value>
+</config>
