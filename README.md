@@ -36,3 +36,5 @@ python config_tool.py --input <путь_к_входному_файлу> --output
 --output — путь к выходному XML файлу.
 ## Пример:
 python config_parser.py config-db.txt output_db.xml
+## Тесты
+Пройдены -> image.png
